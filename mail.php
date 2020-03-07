@@ -41,7 +41,8 @@ if ($response != null && $response->success) {
 		
   		exit();
 	    } else { 
-	    echo '<p>Oups, retentez plus tard !</p>'; 
+	    echo '<p>Oups, c\'est cassé  !</p>'; 
+	    echo '<p>Envoyez plutôt un mail à l\'addresse contact@elves-must-live.tk !</p>'; 
 	    header('refresh:3;url=index.php');  
 	    exit();
 	    } 
