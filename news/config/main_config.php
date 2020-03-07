@@ -6,7 +6,7 @@
 // CHEMINS vers les DOSSIERS 	=> INDIQUEZ LE CHEMIN CORRECT !
 //if(!defined('NEWS_ROOT')) 		define('NEWS_ROOT', 		'http://www.jerome-reaux-creations.fr/DVP/PHP-GESTION-NEWS-V4/'); // (site démo)
 //if(!defined('NEWS_ROOT')) 		define('NEWS_ROOT', 		'http://localhost:8080/DVP-TUTOS/PHP-GESTION-NEWS-v4-MYSQL-Procedural/'); // EN LOCAL !
-if(!defined('NEWS_ROOT')) 			define('NEWS_ROOT', 		'http://elves-must-live.fr/news/'); // EN PRODUCTION : chemin absolu vers le dossier des news
+if(!defined('NEWS_ROOT')) 			define('NEWS_ROOT', 		'http://elves-must-live.tk/news/'); // EN PRODUCTION : chemin absolu vers le dossier des news
 if(!defined('NEWS_FONCTIONS')) 		define('NEWS_FONCTIONS', 	'fonctions/');
 if(!defined('NEWS_MODULES')) 		define('NEWS_MODULES', 		'modules/');
 if(!defined('NEWS_ADMIN')) 			define('NEWS_ADMIN', 		'admin/');
