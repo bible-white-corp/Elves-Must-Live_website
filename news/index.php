@@ -32,7 +32,7 @@ header('Content-type:text/html; charset=UTF-8');	// encodage UTF-8
 							include(__DIR__.'/modules/mod_news/news_liste_colonne.php');
 						// ---------------------------------------------------
 						?>
-                               <center><a href="../index.html" class="button">Retour</a></center> 
+                               <center><a href="../index.php" class="button">Retour</a></center> 
 
 
 

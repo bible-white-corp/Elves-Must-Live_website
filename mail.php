@@ -37,12 +37,12 @@ if ($response != null && $response->success) {
         { 
 	    echo '<p>Votre message a été envoyé. Redirection dans 3 secondes !</p>';
 	    
-	    header('refresh:3;url=index.html');  
+	    header('refresh:3;url=index.php');  
 		
   		exit();
 	    } else { 
 	    echo '<p>Oups, retentez plus tard !</p>'; 
-	    header('refresh:3;url=index.html');  
+	    header('refresh:3;url=index.php');  
 	    exit();
 	    } 
     } 
@@ -50,7 +50,7 @@ if ($response != null && $response->success) {
 } else {
     
 	    echo '<p>Oups, captcha invalide ! !</p>'; 
-	    header('refresh:3;url=index.html');  
+	    header('refresh:3;url=index.php');  
 	    exit();
 }
     
