@@ -95,8 +95,8 @@
                         	<article id="dl">
 								<h2 class="major">Téléchargements</h2>
 									<ul class="alt">
-                                        <li>Téléchargez le jeu ! <center><a href="https://mega.nz/#!dFsUTKLI!WOvR0ixUBdorebDv-Mdv6e00aWxrkqV959zmwtnhfBg" target="_blank" class="button icon fa-download">Télécharger !</a></center></li>
-										<li>Très vielle version du jeu: <center><a href="https://mega.nz/#!oQ9WlIhY!C95CYbmi91mDrmLR62JtHjSYxit5vFmDKxSvM8PjWBM" target="_blank" class="button icon fa-download">Télécharger</a></center></li>
+                                        <li>Téléchargez le jeu ! <center><a href="https://github.com/bible-white-corp/Elves-Must-Live/archive/refs/tags/CD-ROM.zip" target="_blank" class="button icon fa-download">Télécharger !</a></center></li>
+										<li>La release CD-ROM avec des bonus: <center><a href="https://github.com/bible-white-corp/Elves-Must-Live/releases/tag/CD-ROM" target="_blank" class="button icon fa-download">Parcourir</a></center></li>
 										<li>Cahier des charges: <center><a href="doc/Cahierdescharges.pdf" target="_blank" class="button icon fa-download">Télécharger</a></center></li>
 										<li>Rapport de soutenance 1: <center><a href="doc/RapportSoutenance1.pdf" target="_blank" class="button icon fa-download">Télécharger</a></center></li>
                                         <li>Rapport de soutenance 2: <center><a href="doc/RapportSoutenance2.pdf" target="_blank" class="button icon fa-download">Télécharger</a></center></li>
